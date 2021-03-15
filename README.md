@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.com/dranidis/kruskal-mst.svg?branch=main)](https://travis-ci.com/dranidis/kruskal-mst)
 [![Coverage Status](https://coveralls.io/repos/github/dranidis/kruskal-mst/badge.svg)](https://coveralls.io/github/dranidis/kruskal-mst)
 [![Dependencies Status](https://status.david-dm.org/gh/dranidis/kruskal-mst.svg)](https://status.david-dm.org/gh/dranidis/kruskal-mst)
-![CI workflow](https://github.com/dranidis/kruskal-mst/actions/workflows/main.yml/badge.svg)
+
 
 
 # kruskal-mst
